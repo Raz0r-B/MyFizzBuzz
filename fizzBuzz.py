@@ -6,6 +6,8 @@ A fun exercise, probably already famous, but made famous to me by Tom Scott @ ht
 
 This is my interpretation, created completely independently  
 
+This was not intended to take input, but be a way for another coder to interact easily with the main function
+
 The inspiration for my code and layout is to offer ease of customization and readability
 
 '''
@@ -33,3 +35,7 @@ def fizzBuzz(fizz, buzz, rangeMax):
  #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~       
 
 fizzBuzz(fizz = 3, buzz = 3, rangeMax = 100)
+
+
+
+
